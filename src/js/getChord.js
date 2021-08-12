@@ -7,6 +7,8 @@ function getChord(userChord, userIntervals) {
 		root = 0,
 		inversions = 0;
 
+
+		//I'm a piano
 	// checks all user intervals if they are a major or minor third
 	// if not, if the interval is greater than 5, the chord is an inversion
 	// if not, if the interval is less than 4, extended inversions?
